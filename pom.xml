@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>automation</finalName>
 	</build>
 
 </project>
